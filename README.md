@@ -1,28 +1,29 @@
-Theme Switcher Website
-📌 About
-A simple and interactive Theme Switcher Website that allows users to change the website's theme with a button click. It provides a clean interface with different themes and makes the webpage more engaging and dynamic.
+# 🎨 Theme Switcher Website
 
-✨ Features
-🎨 Change website themes with one click
-🖱️ Interactive Change Theme button
-⌨️ Keyboard shortcut support
-🎲 Double-click option to shuffle themes
-💻 Simple and responsive design
-💬 Motivational quotes displayed on the page
-🔄 Change themes with a button click
+## 📌 About
+**Theme Switcher Website** is a simple and interactive front-end project that allows users to switch between different website themes with a button click. The website also features motivational quotes to create an engaging and visually appealing experience.
 
-🛠️ Technologies Used
-HTML5 — For structuring the webpage and quote content.
-CSS3 — For styling, layout, and visual themes.
-JavaScript — For implementing theme switching and interactive functionality.
+## ✨ Features
+- 🎨 Dynamic theme switching
+- 💬 Motivational quotes
+- 🖱️ Interactive **Change Theme** button
+- ⌨️ Keyboard shortcut support
+- 🎲 Double-click option to shuffle themes
+- 📱 Clean and responsive interface
+- 🔄 Smooth and interactive user experience
 
-🎯 Project Purpose
-This project was created as a practical exercise to strengthen my understanding of JavaScript and dynamic CSS styling while building an interactive and visually appealing webpage.
+## 🛠️ Technologies Used
+- **HTML5** — For structuring the webpage
+- **CSS3** — For styling, layout, and different themes
+- **JavaScript** — For theme switching and interactive functionality
 
-🚀 How to Run
-Clone or download this repository.
-Open the project folder in VS Code.
-Open structure.html in your browser.
-Click Change Theme to explore the available themes.
+## 🎯 Project Purpose
+This project was created to practice and strengthen my understanding of **JavaScript events, DOM manipulation, and dynamic styling** while building a simple and interactive web experience.
 
-⭐ A small project built while learning, experimenting, and improving my front-end development skills.
+## 🚀 How to Run
+1. Clone or download this repository.
+2. Open the project folder in **VS Code**.
+3. Open `structure.html` in your browser.
+4. Click the **Change Theme** button to explore different themes.
+
+⭐ *A small project built while learning, experimenting, and improving my front-end development skills.*
